@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-I'm **Hao Truong** ( Leo ), a Software Engineer specializing in Frontend based in Ho Chi Minh City, Vietnam.
+### Hi, I'm Hao Truong (Leo) 👋
 
-I build scalable, high-performance web applications and craft smooth user experiences. If a UI feels sluggish, chances are I'm already opening a bundle analyzer to optimize it.
+I'm a Software Engineer based in Ho Chi Minh City, Vietnam, focused on building scalable web applications and thoughtful user experiences.
 
-My main tech stack is **React, Vue 3, Next.js, and TypeScript**. I also write APIs using **Node.js**, and my favorite leverage tools are **TanStack Query, TailwindCSS, and AI-assisted engineering workflows** to maximize development speed.
+I’m currently working on real estate SaaS products at Moatable, where I work on complex frontend systems, performance, and product-driven UI.
 
-Right now, I'm at **Moatable**, building AI-powered real estate systems and drag-and-drop workflow builders. Over my ~4 years of experience, I've specialized in architectural scalability and performance—frequently slashing UI latency by 30%+ and optimizing bundle sizes.
-
-Check out my pinned repositories below to see how I structure clean, production-ready code!
+I enjoy writing clean, maintainable code and continuously improving the way I build software.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haotruong2507dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haothetruong257@gmail.com) 
