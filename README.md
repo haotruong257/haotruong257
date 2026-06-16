@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Hi, I'm Hao Truong (Leo) 👋
+###I'm Hao Truong (Leo) 
 
 I'm a Software Engineer based in Ho Chi Minh City, Vietnam, focused on building scalable web applications and thoughtful user experiences.
 
